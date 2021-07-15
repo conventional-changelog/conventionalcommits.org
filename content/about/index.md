@@ -52,6 +52,7 @@ The first draft of this specification has been written in collaboration with som
     * [Maven](https://github.com/tomasbjerre/git-changelog-maven-plugin)
     * [Jenkins](https://github.com/jenkinsci/git-changelog-plugin)
     * [Command Line](https://github.com/tomasbjerre/git-changelog-command-line)
+* [Conventional Commits Linter](https://gitlab.com/DeveloperC/conventional_commits_linter): A tooling and language agnostic Git commit linter for the _Conventional Commits_ specification.
 
 ## Projects Using Conventional Commits
 
